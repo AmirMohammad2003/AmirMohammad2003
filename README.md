@@ -20,5 +20,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Connect with me on linked in:
-<a href="https://www.linkedin.com/in/amirmohammad-ghadimi-99bb66225/"><img align="left" src="./images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
+Connect with me:
+<br />
+<a href="https://www.linkedin.com/in/amirmohammad-ghadimi-99bb66225/"><img align="left" src="./images/linkedin.svg" alt="icon | LinkedIn" width="30px"/></a>
+<br />
+
+
+Languages and Tools:
+<br />
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307120-38388364-0bc8-4fcb-b225-1f321e604da6.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307087-10eace13-86ff-4eac-aee4-beaf1b8da9ca.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307151-3167af9b-f12a-41d4-815f-9ff9c750dd04.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307160-2f211b0d-5c91-415b-a7ee-f978c8e35b00.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307176-a90b6238-b0df-44b6-9d25-ec5958f05f49.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307190-b6eeddf4-66c4-4f4a-a981-5fde2bc6d819.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307206-34edea1a-d430-4e24-ac30-551feb485a09.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307221-4f89d015-b3e5-49a2-8d51-e1cd416568db.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307239-39c83dab-1c33-4f4a-afad-e654eb0e3c91.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307256-b931ffc4-b3c4-49f2-aa04-fb0db984d137.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307273-b775fa81-5b04-4603-ad01-88334bb5ea7f.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153307290-b638f948-ffd7-4eda-b5e1-f3e32989b0db.svg" alt="icon" width="30px"/>
