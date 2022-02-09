@@ -1,7 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi there 👋, I am AmirMohammad Ghadimi.</h2>
+  <h5>A Computer Engineering undergraduate student at K. N. Toosi University Of Technology</h5>
+</div>
 
+- 🔭 I’m currently working on some hobby projects on various fields in web development to gain more experience.
+- 🌱 I’m currently learning Front-End development since i am a backend developer and i want to be able to design my hobby projects.
+- I’m interested in Django framework but some times flask just works better for me.
 <!--
-**AmirMohammad2003/AmirMohammad2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Connect with me on linked in:
+<a href="https://www.linkedin.com/in/amirmohammad-ghadimi-99bb66225/"><img align="left" src="./images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
