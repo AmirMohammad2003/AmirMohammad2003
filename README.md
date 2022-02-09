@@ -40,3 +40,9 @@ Languages and Tools:
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307256-b931ffc4-b3c4-49f2-aa04-fb0db984d137.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307273-b775fa81-5b04-4603-ad01-88334bb5ea7f.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307290-b638f948-ffd7-4eda-b5e1-f3e32989b0db.svg" alt="icon" width="30px"/>
+
+
+<br />
+<br />
+
+![AmirMohammad2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMohammad2003&count_private=true&show_icons=true)
