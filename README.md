@@ -32,6 +32,8 @@ Languages and Tools:
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153308801-aedf380f-e62a-47d2-ab02-742429b64e3a.svg" alt="icon" width="80px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153309161-785632b5-b79f-45c3-ba54-b3e5626862d2.png" alt="icon" width="80px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153309361-0db99ee8-a3de-4ac8-aed2-06858dbe4d54.png" alt="icon" width="80px"/>
+<br />
+<br />
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307087-10eace13-86ff-4eac-aee4-beaf1b8da9ca.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307151-3167af9b-f12a-41d4-815f-9ff9c750dd04.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307160-2f211b0d-5c91-415b-a7ee-f978c8e35b00.svg" alt="icon" width="30px"/>
@@ -44,6 +46,9 @@ Languages and Tools:
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307273-b775fa81-5b04-4603-ad01-88334bb5ea7f.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307290-b638f948-ffd7-4eda-b5e1-f3e32989b0db.svg" alt="icon" width="30px"/>
 
+<br />
+<br />
+<br />
 <br />
 <br />
 
