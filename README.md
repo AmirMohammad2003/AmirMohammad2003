@@ -45,4 +45,7 @@ Languages and Tools:
 <br />
 <br />
 
-![AmirMohammad2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMohammad2003&count_private=true&show_icons=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirMohammad2003&count_private=true&show_icons=true" alt="AmirMohammad2003's GitHub stats"/>
+</div>
