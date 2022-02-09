@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![flask-logo](https://user-images.githubusercontent.com/68375124/153309348-b9f66c1c-29d5-4f82-90ba-26c5621b12f5.png)
+
 - ⚡ Fun fact: ...
 -->
 
@@ -25,10 +26,12 @@ Connect with me:
 <a href="https://www.linkedin.com/in/amirmohammad-ghadimi-99bb66225/"><img align="left" src="./images/linkedin.svg" alt="icon | LinkedIn" width="30px"/></a>
 <br />
 
-
 Languages and Tools:
 <br />
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307120-38388364-0bc8-4fcb-b225-1f321e604da6.svg" alt="icon" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153308801-aedf380f-e62a-47d2-ab02-742429b64e3a.svg" alt="icon" width="80px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153309161-785632b5-b79f-45c3-ba54-b3e5626862d2.png" alt="icon" width="80px"/>
+<img align="left" src="https://user-images.githubusercontent.com/68375124/153309361-0db99ee8-a3de-4ac8-aed2-06858dbe4d54.png" alt="icon" width="80px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307087-10eace13-86ff-4eac-aee4-beaf1b8da9ca.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307151-3167af9b-f12a-41d4-815f-9ff9c750dd04.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307160-2f211b0d-5c91-415b-a7ee-f978c8e35b00.svg" alt="icon" width="30px"/>
@@ -40,7 +43,6 @@ Languages and Tools:
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307256-b931ffc4-b3c4-49f2-aa04-fb0db984d137.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307273-b775fa81-5b04-4603-ad01-88334bb5ea7f.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307290-b638f948-ffd7-4eda-b5e1-f3e32989b0db.svg" alt="icon" width="30px"/>
-
 
 <br />
 <br />
