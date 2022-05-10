@@ -3,9 +3,8 @@
   <h5>A Computer Engineering undergraduate student at K. N. Toosi University Of Technology</h5>
 </div>
 
-- 🔭 I’m currently working on some hobby projects on various fields in web development to gain more experience.
-- 🌱 I’m currently learning Front-End development since i am a backend developer and i want to be able to design my hobby projects.
-- I’m interested in Django framework but sometimes flask just works better for me.
+- 🔭 I’m currently working on a small programming language.
+- 🌱 I’m currently learning DevOps Engineering, GraphQL, elixir and the principles of compiler design.
 <!--
 
 Here are some ideas to get you started:
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...![flask-logo](https://user-images.githubusercontent.com/68375124/153309348-b9f66c1c-29d5-4f82-90ba-26c5621b12f5.png)
+- 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...
 -->
