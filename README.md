@@ -4,7 +4,7 @@
 </div>
 
 - 🔭 I’m currently working on a small programming language.
-- 🌱 I’m currently learning DevOps Engineering, GraphQL, elixir and the principles of compiler design.
+- 🌱 I’m currently learning DevOps Engineering, GraphQL, elixir and compiler design.
 <!--
 
 Here are some ideas to get you started:
