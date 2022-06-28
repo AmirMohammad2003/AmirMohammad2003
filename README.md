@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there 👋, I am AmirMohammad Ghadimi.</h2>
-  <h5>A Computer Engineering undergraduate student at K. N. Toosi University Of Technology</h5>
+  <h5>Computer Engineering undergraduate student at K. N. Toosi University Of Technology</h5>
 </div>
 
 - 🔭 I’m currently working on a small programming language.
