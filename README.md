@@ -30,7 +30,6 @@ Languages and Tools:
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307120-38388364-0bc8-4fcb-b225-1f321e604da6.svg" alt="icon" width="30px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153308801-aedf380f-e62a-47d2-ab02-742429b64e3a.svg" alt="icon" width="80px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153309161-785632b5-b79f-45c3-ba54-b3e5626862d2.png" alt="icon" width="80px"/>
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153309361-0db99ee8-a3de-4ac8-aed2-06858dbe4d54.png" alt="icon" width="80px"/>
 <br />
 <br />
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307087-10eace13-86ff-4eac-aee4-beaf1b8da9ca.svg" alt="icon" width="30px"/>
