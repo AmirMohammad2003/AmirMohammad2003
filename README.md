@@ -1,14 +1,14 @@
 <div align="center">
-  <h2>Hi there 👋, I am AmirMohammad Ghadimi.</h2>
-  <h5>Computer Engineering undergraduate student at K. N. Toosi University Of Technology</h5>
+  <h2>Hi there 👋, I am Amir.</h2>
+  <h5>A CS student in Iran/h5>
 </div>
 
-- 🌱 I’m currently learning next.js and GraphQL.
-- 🔭 I’m currently working on some projects to enhance my skills and learn new ones as needed.
+- 🌱 I’m currently Rust.
 <!--
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on some projects to enhance my skills and learn new ones as needed.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
