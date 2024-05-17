@@ -3,7 +3,7 @@
   <h5>A CS student in Iran</h5>
 </div>
 
-- 🌱 I’m currently Rust.
+- 🌱 I’m currently learning Rust.
 <!--
 
 Here are some ideas to get you started:
