@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there 👋, I am Amir.</h2>
-  <h5>A CS student in Iran/h5>
+  <h5>A CS student in Iran</h5>
 </div>
 
 - 🌱 I’m currently Rust.
