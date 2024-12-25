@@ -29,17 +29,11 @@ Connect with me:
 <a href="https://www.linkedin.com/in/amirmohammad-ghadimi-99bb66225/"><img align="left" src="./images/linkedin.svg" alt="icon | LinkedIn" width="30px"/></a>
 <br />
 -->
-Languages and Tools:
-<br />
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153307120-38388364-0bc8-4fcb-b225-1f321e604da6.svg" alt="icon" width="30px"/>
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153308801-aedf380f-e62a-47d2-ab02-742429b64e3a.svg" alt="icon" width="80px"/>
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153307221-4f89d015-b3e5-49a2-8d51-e1cd416568db.svg" alt="icon" width="30px"/>
-<br />
-<br />
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153307087-10eace13-86ff-4eac-aee4-beaf1b8da9ca.svg" alt="icon" width="30px"/>
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153307290-b638f948-ffd7-4eda-b5e1-f3e32989b0db.svg" alt="icon" width="30px"/>
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153307239-39c83dab-1c33-4f4a-afad-e654eb0e3c91.svg" alt="icon" width="30px"/>
-<img align="left" src="https://user-images.githubusercontent.com/68375124/153307256-b931ffc4-b3c4-49f2-aa04-fb0db984d137.svg" alt="icon" width="30px"/>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <br />
 <br />
