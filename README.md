@@ -1,9 +1,11 @@
 <div align="center">
   <h2>Hi there 👋, I am Amir.</h2>
-  <h5>A CS student in Iran</h5>
 </div>
 
-- 🌱 I’m currently learning Rust.
+## 🌱 I’m currently learning about:
+  - Neovim plugin development
+  - Language server protocol
+  - Lua
 <!--
 
 Here are some ideas to get you started:
@@ -21,12 +23,12 @@ Here are some ideas to get you started:
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153309161-785632b5-b79f-45c3-ba54-b3e5626862d2.png" alt="icon" width="80px"/>
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307206-34edea1a-d430-4e24-ac30-551feb485a09.svg" alt="icon" width="30px"/>
 -->
-
+<!--
 Connect with me:
 <br />
 <a href="https://www.linkedin.com/in/amirmohammad-ghadimi-99bb66225/"><img align="left" src="./images/linkedin.svg" alt="icon | LinkedIn" width="30px"/></a>
 <br />
-
+-->
 Languages and Tools:
 <br />
 <img align="left" src="https://user-images.githubusercontent.com/68375124/153307120-38388364-0bc8-4fcb-b225-1f321e604da6.svg" alt="icon" width="30px"/>
